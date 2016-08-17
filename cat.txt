@@ -1,1 +1,2 @@
-some cat file.
+Cats are always awesome.
+Even when they make me sneeze.
